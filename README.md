@@ -24,8 +24,8 @@ A developer who thinks big and looks ahead.
 
 **Maintainer**
 
-- [**tutor-skills**](https://github.com/RoundTable02/tutor-skills) - Agent-based learning skill (Obsidian → quiz) ![Stars](https://img.shields.io/github/stars/RoundTable02/tutor-skills?style=flat) ![npx](https://img.shields.io/badge/total_installs-1.6k-orange)
-- [**remote-opencode**](https://github.com/RoundTable02/remote-opencode) - Remote dev via Discord bot & CLI ![Stars](https://img.shields.io/github/stars/RoundTable02/remote-opencode?style=flat) ![npm](https://img.shields.io/npm/dt/remote-opencode)
+- [**tutor-skills**](https://github.com/RoundTable02/tutor-skills) - Agent-based learning skill (Obsidian → quiz) &nbsp;&nbsp;&nbsp;&nbsp;![Stars](https://img.shields.io/github/stars/RoundTable02/tutor-skills?style=flat) ![npx](https://img.shields.io/badge/total_installs-1.6k-orange)
+- [**remote-opencode**](https://github.com/RoundTable02/remote-opencode) - Remote dev via Discord bot & CLI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Stars](https://img.shields.io/github/stars/RoundTable02/remote-opencode?style=flat) ![npm](https://img.shields.io/npm/dt/remote-opencode)
 
 <br/>
 

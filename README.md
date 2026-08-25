@@ -24,8 +24,9 @@ A developer who thinks big and looks ahead.
 
 **Maintainer**
 
-- [**tutor-skills**](https://github.com/RoundTable02/tutor-skills) - Agent-based learning skill (Obsidian → quiz) &nbsp;&nbsp;&nbsp;&nbsp;![Stars](https://img.shields.io/github/stars/RoundTable02/tutor-skills?style=flat) ![npx](https://img.shields.io/badge/total_installs-3.1k-orange)
+- [**tutor-skills**](https://github.com/RoundTable02/tutor-skills) - Agent-based learning skill (Obsidian → quiz) &nbsp;&nbsp;&nbsp;&nbsp;![Stars](https://img.shields.io/github/stars/RoundTable02/tutor-skills?style=flat) ![npx](https://img.shields.io/badge/total_installs-3.8k-orange)
 - [**remote-opencode**](https://github.com/RoundTable02/remote-opencode) - Remote dev via Discord bot & CLI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Stars](https://img.shields.io/github/stars/RoundTable02/remote-opencode?style=flat) ![npm](https://img.shields.io/npm/dt/remote-opencode)
+- [**socrates-skill**](https://github.com/bevibing/socrates-skill) - Socratic method teaching & guided learning skill &nbsp;&nbsp;&nbsp;&nbsp;![Stars](https://img.shields.io/github/stars/bevibing/socrates-skill?style=flat) ![npx](https://img.shields.io/badge/total_installs-272-orange)
 
 <br/>
 
